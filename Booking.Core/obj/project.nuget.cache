@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bplaOrIN+IaIFNxS0obcSvDRCjfmBBzD7FHQG+v+NnGQQGl5WRGGAkLAekEusIgaVu+qgkIDy6gXULcr8lK5jw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Booking Demo\\Booking.System\\Booking.Core\\Booking.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

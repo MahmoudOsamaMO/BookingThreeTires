@@ -1,0 +1,9 @@
+D:\Projects\Booking Demo\Booking.System\Booking.Core\bin\Debug\netstandard2.0\Booking.Core.deps.json
+D:\Projects\Booking Demo\Booking.System\Booking.Core\bin\Debug\netstandard2.0\Booking.Core.dll
+D:\Projects\Booking Demo\Booking.System\Booking.Core\bin\Debug\netstandard2.0\Booking.Core.pdb
+D:\Projects\Booking Demo\Booking.System\Booking.Core\obj\Debug\netstandard2.0\Booking.Core.csprojAssemblyReference.cache
+D:\Projects\Booking Demo\Booking.System\Booking.Core\obj\Debug\netstandard2.0\Booking.Core.AssemblyInfoInputs.cache
+D:\Projects\Booking Demo\Booking.System\Booking.Core\obj\Debug\netstandard2.0\Booking.Core.AssemblyInfo.cs
+D:\Projects\Booking Demo\Booking.System\Booking.Core\obj\Debug\netstandard2.0\Booking.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Booking Demo\Booking.System\Booking.Core\obj\Debug\netstandard2.0\Booking.Core.dll
+D:\Projects\Booking Demo\Booking.System\Booking.Core\obj\Debug\netstandard2.0\Booking.Core.pdb
