@@ -6,7 +6,7 @@ namespace Booking.Models.DAL
 {
     public class RoomBooking
     {
-        public int BookingID { get; set; }
+        public int RoomBookingID { get; set; }
         public string BookedDateFR { get; set; }
         public string BookedDateTO { get; set; }
         public string BookingStatus { get; set; }
